@@ -1,3 +1,5 @@
+# Run in the terminal: streamlit run Sayan.py
+
 import streamlit as st
 import google.generativeai as genai
 from PIL import Image
